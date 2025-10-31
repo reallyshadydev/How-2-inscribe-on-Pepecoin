@@ -11,7 +11,7 @@
 
 ---  
 
-## What is Pepinals.js? (For Normal People)  
+## What is Pepinals.js?   
 
 Imagine **Pepecoin** is like a giant notebook that anyone can write in — but once you write something, **you can’t erase it**.  
 
