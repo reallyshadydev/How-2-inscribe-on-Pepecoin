@@ -46,7 +46,7 @@ You can:
 
 ## Safety First (Don’t Lose Your Stuff!)  
 
-- **Only use a small amount of PPC** at first (like $1–$5 worth).  
+- **Only use a small amount of PEP** at first (like $1–$5 worth).  
 - **Never share** these files:  
   - `.wallet.json` ← your money  
   - `.env` ← your node password  
@@ -159,7 +159,7 @@ node pepinals.js wallet new
 
 → It will show an address like: `PpB1ocks3ozcti7m5a3i2wViSuFAchLm3n`  
 
-**Send a little PPC to this address** (from an exchange or friend).  
+**Send a little PEP to this address** (from an exchange or friend).  
 
 Then run:  
 ```bash
@@ -301,7 +301,7 @@ Check it out: http://localhost:3008/tx/abc123...
 
 Made my own $FROG token too!   
 
-#PPC #Crypto #Web3  
+#PEP #Crypto #Web3  
 
 [Attach your picture]  
 ```  
