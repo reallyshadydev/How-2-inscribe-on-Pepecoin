@@ -151,7 +151,7 @@ SERVER_PORT=3008
 
 ## Step 5: Create Your Wallet (Your Bank Account)  
 
-This is where your PPC lives for inscribing.  
+This is where your PEP lives for inscribing.  
 
 ```bash
 node pepinals.js wallet new  
