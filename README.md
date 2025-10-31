@@ -40,7 +40,7 @@ You can:
 | **Node.js** | Runs the Pepinals tool | [nodejs.org](https://nodejs.org) (click "LTS") |  
 | **A computer** | Windows, Mac, or Linux | You already have this |  
 | **Internet** | To send your inscription | Wi-Fi or cable |  
-| **A little PPC** | To pay tiny fees (like postage) | Buy on an exchange or get from a friend |  
+| **A little PEP** | To pay tiny fees (like postage) | Buy on an exchange or get from a friend |  
 
 ---  
 
